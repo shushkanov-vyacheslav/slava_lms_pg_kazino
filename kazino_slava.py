@@ -1,3 +1,4 @@
+# Данный код частично совмещён с кодом Юры и Максима
 import pygame
 import random
 import sqlite3
